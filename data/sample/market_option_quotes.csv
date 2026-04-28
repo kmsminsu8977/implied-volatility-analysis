@@ -1,0 +1,6 @@
+quote_id,spot,strike,rate,maturity,option_type,market_price
+CALL_90,100,90,0.03,0.5,call,12.85
+CALL_100,100,100,0.03,0.5,call,6.35
+CALL_110,100,110,0.03,0.5,call,2.85
+PUT_95,100,95,0.03,0.5,put,3.35
+PUT_105,100,105,0.03,0.5,put,7.25
